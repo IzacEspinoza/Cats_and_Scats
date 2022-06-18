@@ -33,8 +33,8 @@ nav{
     display: flex;
     justify-content: space-evenly;
 
-    margin: 5px;
-    padding: 10px;
+    margin: 15px;
+    padding: 15px;
     height: auto;
 
     /* border: 5px double red; */
@@ -65,22 +65,29 @@ nav{
 
 #styled-break{
     margin: 10px;
-    border: 2px solid red;
+    border: 1px solid red;
     width: 90%;
 
-    position: absolute;
+    /* position: absolute;
     left: 50%;
     top: 50%;
     bottom: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%); */
+
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+
+    display: grid;
+    place-items: center;
     
 }
 
 .about{
     height:auto;
     width: 50%;
-    padding: 10px;
-    margin: 10px;
+    padding: 15px;
+    margin: 40px;
 
     position: absolute;
     top: 50%;
