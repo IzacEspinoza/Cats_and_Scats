@@ -66,8 +66,7 @@ nav{
 #styled-break{
     margin: 10px;
     border: 1px solid red;
-    width: 90%;
-
+    width: 95%;
     /* position: absolute;
     left: 50%;
     top: 50%;
@@ -85,7 +84,7 @@ nav{
 
 .about{
     height:auto;
-    width: 50%;
+    width: 90%;
     padding: 15px;
     margin: 40px;
 
