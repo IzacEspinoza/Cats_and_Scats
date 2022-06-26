@@ -67,6 +67,7 @@ nav{
     margin: 10px;
     border: 1px solid red;
     width: 95%;
+
     /* position: absolute;
     left: 50%;
     top: 50%;
@@ -98,10 +99,6 @@ nav{
 
 .about h1, p{
     text-align: center;
-    
-
-
-
 
 }
 
