@@ -102,3 +102,33 @@ nav{
 
 }
 
+.gallery{
+    height:auto;
+    width: 90%;
+    padding: 15px;
+    margin: 40px;
+    
+    /* display: grid;
+    place-items: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.trim, .trim-preview, .features, .specs,
+.links
+{
+    width: 90%;
+    height: auto;
+    padding: 5px;
+
+    background-color: red;
+    border: 2px dashed white;
+
+    display: flex;
+    gap: 15px;
+}
+
+
+
